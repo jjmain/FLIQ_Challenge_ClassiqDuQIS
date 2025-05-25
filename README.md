@@ -1,4 +1,4 @@
-## This repository is a collaborative work originally started by @Hemishahuja. I contributed to this project and uploaded it here for personal portfolio and archiving purposes.
+## This repository was originally hosted on @Hemishahuja’s GitHub as part of a team project. As a contributing member of the team, I uploaded it here for personal portfolio and archiving purposes.
 
 # Quantum Phase Classification
 
