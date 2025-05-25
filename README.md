@@ -1,3 +1,5 @@
+## This repository is a collaborative work originally started by @Hemishahuja. I contributed to this project and uploaded it here for personal portfolio and archiving purposes.
+
 # Quantum Phase Classification
 
 ## 🚀 FLIQ (Future Leaders in Quantum) 2025 Hackathon Submission  
@@ -102,4 +104,4 @@ We optimized our model to **maximize accuracy** while keeping the number of para
 ## Challenge Statement
 https://github.com/dmitriikhitrin/Classiq-x-DuQIS-FLIQ-Challenge
 
-##This repository is a collaborative work originally started by @Hemishahuja. I contributed to this project and uploaded it here for personal portfolio and archiving purposes.
+
